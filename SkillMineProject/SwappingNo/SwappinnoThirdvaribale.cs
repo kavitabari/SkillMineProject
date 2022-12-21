@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SkillMineProject.SwappingNo
 {
-    class Swappinno
+    class SwappinnoThirdvaribale
     {
         static void Main(string[] args)
         {

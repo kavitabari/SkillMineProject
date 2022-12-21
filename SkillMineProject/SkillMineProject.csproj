@@ -3,12 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>SkillMineProject.NestedLoop.SumOfFactorsNestedLoop</StartupObject>
+	  <StartupObject>SkillMineProject.Array.FindMinElementArray</StartupObject>
 	  
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="OOPS\" />
-  </ItemGroup>
 
 </Project>
